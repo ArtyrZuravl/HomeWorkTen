@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Adela Hendrics",
+    "picture": "https://picsum.photo/200",
+    "position": "GO разработчик",
+    "gender": "femele",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "id": 2,
+    "name": "Sheris Torris",
+    "picture": "https://picsum.photo/200",
+    "position": "Delphi developer",
+    "gender": "femele",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "id": 4,
+    "name": "Bart Adkins",
+    "picture": "https://picsum.photo/200",
+    "position": "СТО",
+    "gender": "male",
+    "age": 37,
+    "skills": "информатичвное лицо"
+  },
+  {
+    "id": 5,
+    "name": "Day Holloway",
+    "picture": "https://picsum.photo/200",
+    "position": "HR manager",
+    "gender": "male",
+    "age": 22,
+    "skills": "telegram"
+  }
+]
