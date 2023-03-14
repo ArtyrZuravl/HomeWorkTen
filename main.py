@@ -11,6 +11,7 @@ def page_index():
     for user in users.values():
         str += f"{user['name']} \n {user['position']} \n {user['skills']} \n\n"
     str += '</pre>'
+    return str
 
 
 @app.route("/candidate/<int:id>")
